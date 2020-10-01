@@ -9,6 +9,8 @@ Link para o curso (https://www.python.pro.br/)
 
 Suportada versão 3 de Python
 
+Test pull request 
+
 Para instalar:
 
 ``` console
