@@ -6,6 +6,8 @@ Nesse curso é ensinado como contribuir com projetos de código aberto.
 Link para o curso (https://www.python.pro.br/)
 
 [![Build Status](https://travis-ci.com/felipesurfe/libpythonpro.svg?branch=master)](https://travis-ci.com/felipesurfe/libpythonpro)
+[![Updates](https://pyup.io/repos/github/felipesurfe/libpythonpro/shield.svg)](https://pyup.io/repos/github/felipesurfe/libpythonpro/)
+[![Python 3](https://pyup.io/repos/github/felipesurfe/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/felipesurfe/libpythonpro/)
 
 Suportada versão 3 de Python
 
